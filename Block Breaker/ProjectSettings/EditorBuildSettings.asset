@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Old/Scenes/Start Menu.unity
+    guid: 166fddc95cd03c743be1072038cbfd70
+  - enabled: 1
+    path: Assets/Old/Scenes/Level 1.unity
+    guid: aa683a09db3712b4583ed2c49300fad5
+  - enabled: 1
+    path: Assets/Old/Scenes/Level 2.unity
+    guid: 1c8efb3007d5cad47b427fff747ef75c
+  - enabled: 1
+    path: Assets/Old/Scenes/Level 3.unity
+    guid: c5cf3656fdda1cf4a9d3711ccf8b0008
+  - enabled: 1
+    path: Assets/Old/Scenes/You Win!.unity
+    guid: 2bf6801fc5248074f80467a8c004111d
+  - enabled: 1
+    path: Assets/Old/Scenes/Game Over!.unity
+    guid: eadd78ea5781a6f46afa31e33882bfc5
+  - enabled: 0
+    path: Assets/New/Scenes/Start Menu.unity
+    guid: 6e14b87321d9f894ea0fe8fcc2c31e46
+  - enabled: 0
+    path: Assets/New/Scenes/Controls menu.unity
+    guid: a67cbac15a069024bb26bf8917e77cf0
+  - enabled: 0
+    path: Assets/New/Scenes/Song Selection.unity
+    guid: 235c4751ccafc2945b1e78ec83c15fda
+  - enabled: 0
+    path: Assets/New/Scenes/Bad Apple.unity
+    guid: e6c31c4572914ca448f995ec12cb6c48
+  - enabled: 0
+    path: Assets/New/Scenes/Cruel Angel's Thesis.unity
+    guid: 5d5869755bc9a5f48af04aec8d7c2dd2
+  m_configObjects: {}
